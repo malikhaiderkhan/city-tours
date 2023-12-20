@@ -49,7 +49,7 @@
 
 > Below is a link to my deployed project.
 
-- [Live Demo Link](will be available soon)
+- [Live Demo Link](https://city-tours-guide2.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
